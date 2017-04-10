@@ -1,2 +1,2 @@
 # hello-world
-Github Practice
+Github Practice. That is all.
